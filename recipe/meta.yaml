@@ -1,5 +1,5 @@
 {% set name = "rlpython" %}
-{% set version = "0.10.2" %}
+{% set version = "0.10.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/rlpython-{{ version }}.tar.gz
-  sha256: 4fe239f85648184e49af5b165cce732ba8af81be7e204410ea2fb300a43216e3
+  sha256: 26e1cb186a680b4558279b1aa92bc057b04b91f9539ea05d145faa3b96e02ba4
 
 build:
   number: 0
