@@ -1,11 +1,11 @@
-About rlpython
-==============
+About rlpython-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rlpython-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/fscherf/rlpython
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rlpython-feedstock/blob/main/LICENSE.txt)
 
 Summary: GNU Readline based Python REPL without any external dependencies
 
